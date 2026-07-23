@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PRAGATIMITTAL/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/PRAGATIMITTAL/DSA/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAGATIMITTAL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0042-trapping-rain-water) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/PRAGATIMITTAL/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PRAGATIMITTAL/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
