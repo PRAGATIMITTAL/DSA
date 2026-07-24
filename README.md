@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PRAGATIMITTAL/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
