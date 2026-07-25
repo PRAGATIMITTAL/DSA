@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
+| [0326-power-of-three](https://github.com/PRAGATIMITTAL/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/PRAGATIMITTAL/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/PRAGATIMITTAL/DSA/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
