@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/PRAGATIMITTAL/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/PRAGATIMITTAL/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PRAGATIMITTAL/DSA/tree/master/0125-valid-palindrome) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
