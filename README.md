@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/PRAGATIMITTAL/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/PRAGATIMITTAL/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRAGATIMITTAL/DSA/tree/master/0342-power-of-four) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PRAGATIMITTAL/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/PRAGATIMITTAL/DSA/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/PRAGATIMITTAL/DSA/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
