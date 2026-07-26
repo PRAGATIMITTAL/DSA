@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/PRAGATIMITTAL/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/PRAGATIMITTAL/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRAGATIMITTAL/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PRAGATIMITTAL/DSA/tree/master/0367-valid-perfect-square) |
@@ -153,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/PRAGATIMITTAL/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
