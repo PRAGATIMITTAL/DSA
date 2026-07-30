@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PRAGATIMITTAL/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PRAGATIMITTAL/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PRAGATIMITTAL/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0053-maximum-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Stack
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
