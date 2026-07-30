@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1672-richest-customer-wealth](https://github.com/PRAGATIMITTAL/DSA/tree/master/1672-richest-customer-wealth) |
+| [1695-maximum-erasure-value](https://github.com/PRAGATIMITTAL/DSA/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/PRAGATIMITTAL/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAGATIMITTAL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1695-maximum-erasure-value](https://github.com/PRAGATIMITTAL/DSA/tree/master/1695-maximum-erasure-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting Sort
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/PRAGATIMITTAL/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/PRAGATIMITTAL/DSA/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
