@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAGATIMITTAL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
 ## Number Theory
 |  |
 | ------- |
