@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/PRAGATIMITTAL/DSA/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/PRAGATIMITTAL/DSA/tree/master/1108-defanging-an-ip-address) |
