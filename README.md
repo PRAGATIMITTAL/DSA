@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
