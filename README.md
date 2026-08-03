@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/PRAGATIMITTAL/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/PRAGATIMITTAL/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
