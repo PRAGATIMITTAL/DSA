@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/PRAGATIMITTAL/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/PRAGATIMITTAL/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRAGATIMITTAL/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0523-continuous-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0525-contiguous-array) |
