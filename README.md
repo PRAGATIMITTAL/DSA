@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/PRAGATIMITTAL/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PRAGATIMITTAL/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/PRAGATIMITTAL/DSA/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/PRAGATIMITTAL/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PRAGATIMITTAL/DSA/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/PRAGATIMITTAL/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/PRAGATIMITTAL/DSA/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
