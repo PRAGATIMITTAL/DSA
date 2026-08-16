@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PRAGATIMITTAL/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PRAGATIMITTAL/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRAGATIMITTAL/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -313,4 +315,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/PRAGATIMITTAL/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/PRAGATIMITTAL/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
