@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/PRAGATIMITTAL/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0485-max-consecutive-ones) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PRAGATIMITTAL/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/PRAGATIMITTAL/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PRAGATIMITTAL/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/PRAGATIMITTAL/DSA/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/PRAGATIMITTAL/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/PRAGATIMITTAL/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/PRAGATIMITTAL/DSA/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/PRAGATIMITTAL/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
@@ -337,4 +341,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PRAGATIMITTAL/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
