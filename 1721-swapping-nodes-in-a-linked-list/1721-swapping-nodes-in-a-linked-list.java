@@ -10,7 +10,7 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-      ListNode fast = head;
+         ListNode fast = head;
         ListNode slow = head;
         ListNode first = head, second = head;
         
@@ -37,6 +37,6 @@ class Solution {
         first.val = second.val;
         second.val = temp;
         
-        return head;  
+        return head;
     }
 }
