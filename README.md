@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/PRAGATIMITTAL/DSA/tree/master/0011-container-with-most-water) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PRAGATIMITTAL/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PRAGATIMITTAL/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PRAGATIMITTAL/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/PRAGATIMITTAL/DSA/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/PRAGATIMITTAL/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Sliding Window
 |  |
@@ -366,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
