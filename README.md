@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PRAGATIMITTAL/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PRAGATIMITTAL/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/PRAGATIMITTAL/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PRAGATIMITTAL/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/PRAGATIMITTAL/DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1732-find-the-highest-altitude](https://github.com/PRAGATIMITTAL/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -372,5 +376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
