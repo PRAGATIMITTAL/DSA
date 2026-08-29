@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/PRAGATIMITTAL/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/PRAGATIMITTAL/DSA/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PRAGATIMITTAL/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PRAGATIMITTAL/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2390-removing-stars-from-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PRAGATIMITTAL/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PRAGATIMITTAL/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/PRAGATIMITTAL/DSA/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/PRAGATIMITTAL/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
