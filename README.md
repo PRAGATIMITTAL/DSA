@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/PRAGATIMITTAL/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PRAGATIMITTAL/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PRAGATIMITTAL/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
