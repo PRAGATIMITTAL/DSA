@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1046-last-stone-weight](https://github.com/PRAGATIMITTAL/DSA/tree/master/1046-last-stone-weight) |
 | [1052-grumpy-bookstore-owner](https://github.com/PRAGATIMITTAL/DSA/tree/master/1052-grumpy-bookstore-owner) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/PRAGATIMITTAL/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/1191-k-concatenation-maximum-sum) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRAGATIMITTAL/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/PRAGATIMITTAL/DSA/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
