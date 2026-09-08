@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/PRAGATIMITTAL/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PRAGATIMITTAL/DSA/tree/master/1927-sum-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3870-count-commas-in-range](https://github.com/PRAGATIMITTAL/DSA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PRAGATIMITTAL/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
