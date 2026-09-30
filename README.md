@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/PRAGATIMITTAL/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/PRAGATIMITTAL/DSA/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/PRAGATIMITTAL/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/PRAGATIMITTAL/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/PRAGATIMITTAL/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PRAGATIMITTAL/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Matrix
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/PRAGATIMITTAL/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/PRAGATIMITTAL/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/PRAGATIMITTAL/DSA/tree/master/1046-last-stone-weight) |
 ## Binary Tree
 |  |
@@ -467,4 +472,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PRAGATIMITTAL/DSA/tree/master/0169-majority-element) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
