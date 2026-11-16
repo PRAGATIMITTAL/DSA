@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRAGATIMITTAL/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/PRAGATIMITTAL/DSA/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/PRAGATIMITTAL/DSA/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/PRAGATIMITTAL/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/PRAGATIMITTAL/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/PRAGATIMITTAL/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/PRAGATIMITTAL/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/PRAGATIMITTAL/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/PRAGATIMITTAL/DSA/tree/master/0525-contiguous-array) |
